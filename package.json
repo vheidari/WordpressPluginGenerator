@@ -10,13 +10,15 @@
   "license": "MIT",
   "keywords": [
     "wordpress",
-    "wordpress",
-    "develper",
-    "wordpress",
-    "plugin",
-    "developing",
-    "wordpress",
     "plugin",
     "generator"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vheidari/wordpress-plugin-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vheidari/wordpress-plugin-generator/issues"
+  },
+  "homepage": "https://github.com/vheidari/wordpress-plugin-generator#readme"
 }
