@@ -1,17 +1,19 @@
 {
-  "name": "wpg",
-  "version": "1.0.0",
+  "name": "wordpess-plugins-generator",
+  "version": "1.0.4",
   "description": "help to wordpress plugin developer to making fast development environment and creation all file and folder need. for more information see this link : https://developer.wordpress.org/plugins/the-basics/best-practices/",
   "main": "wpg.js",
   "scripts": {
-    "test": "run wpg"
+    "test": "wpg"
   },
   "author": "Vahid Heidari",
   "license": "MIT",
   "keywords": [
     "wordpress",
-    "plugin",
-    "generator"
+    "wordpress-development",
+    "wordpress-plugin-development",
+    "wp-plugin",
+    "wordpress-plugin-settings"
   ],
   "repository": {
     "type": "git",
