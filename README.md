@@ -13,7 +13,7 @@ git clone https://github.com/vheidari/wordpress-plugin-generator.git
 ![install](https://user-images.githubusercontent.com/919149/27462260-b6ac93c6-57d4-11e7-8fd1-c8ed3fea2edb.gif)
 
 ## How to use it ?
-When you clone it, You can use this below command inside your terminal:
+When you clone it, you can use the command below inside your terminal::
 ```
 node wpg.js
 ```
